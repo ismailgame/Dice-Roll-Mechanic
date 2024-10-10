@@ -1,2 +1,1 @@
-# Dice-Roll-Mechanic
-It's just about rolling dice, nothing more.
+git clone https://github.com/your-username/Dice-Roll-Mechanick.git
