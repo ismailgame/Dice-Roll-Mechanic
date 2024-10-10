@@ -7,13 +7,6 @@
 - **Single-Button Roll**: Roll all four dice simultaneously by pressing one button.
 - **Basic Dice Mechanics**: Displays the result of each die after every roll, creating a clean and simple dice-rolling experience.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/ismailgame/Dice-Roll-Mechanick.git](https://github.com/ismailgame/Dice-Roll-Mechanic)
-   ```
-2. Open the project in Unity (recommended version 2022.3 or later).
-
 ## How to Use
 1. Open the game scene.
 2. Press the designated roll button to roll all four dice.
