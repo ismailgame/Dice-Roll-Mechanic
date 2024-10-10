@@ -1,7 +1,7 @@
-# Dice Roll Mechanick
+# Dice Roll Mechanic
 
 ## Overview
-**Dice Roll Mechanick** is a simple Unity project focused on a basic dice-rolling mechanic. This project allows you to roll four dice at once with a single button press, providing a straightforward way to simulate dice rolls.
+**Dice Roll Mechanic** is a simple Unity project focused on a basic dice-rolling mechanic. This project allows you to roll four dice at once with a single button press, providing a straightforward way to simulate dice rolls.
 
 ## Features
 - **Single-Button Roll**: Roll all four dice simultaneously by pressing one button.
