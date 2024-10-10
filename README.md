@@ -14,7 +14,6 @@
 
 ## Future Enhancements
 - Add different dice types for varied outcomes.
-- Implement a visual or sound effect for each roll.
 - Track roll history to show past results.
 
 ## Contributing
