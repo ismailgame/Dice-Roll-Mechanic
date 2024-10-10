@@ -1,5 +1,7 @@
 # Dice Roll Mechanic
 
+https://github.com/user-attachments/assets/1471b2be-3168-4c0f-8224-e6e07e37580d
+
 
 ## Overview
 **Dice Roll Mechanic** is a simple Unity project focused on a basic dice-rolling mechanic. This project allows you to roll four dice at once with a single button press, providing a straightforward way to simulate dice rolls.
