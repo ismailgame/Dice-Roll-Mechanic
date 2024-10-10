@@ -10,9 +10,9 @@
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Dice-Roll-Mechanick.git
+   git clone https://github.com/ismailgame/Dice-Roll-Mechanick.git
    ```
-2. Open the project in Unity (recommended version 2020.3 or later).
+2. Open the project in Unity (recommended version 2022.3 or later).
 
 ## How to Use
 1. Open the game scene.
